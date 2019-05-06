@@ -1,0 +1,18 @@
+[
+    {
+      "url": "clairo.mp3",
+      "cover": "musicnote.png",
+      "title": "Hot Cheetos instrumental",
+      "artist": [
+        "Clairo"
+      ]
+    },
+    {
+      "url": "rejjie.mp3",
+      "cover": "musicnote.png",
+      "title": "Oh No instrumental",
+      "artist": [
+        "Rejjie Snow"
+      ]
+    }
+]
