@@ -1,3 +1,7 @@
 .Navbar-text {
     color: white 
 }
+.nav-logo {
+    float: left !important;
+    margin-top: -15px !important;
+  }
